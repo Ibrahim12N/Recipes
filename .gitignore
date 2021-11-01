@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Recipes/task/build/
+/Recipes/task/out/
+/Recipes/task/out/production/classes/
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/The List interface/Companies/out/
+/Topics/The List interface/Companies/out/production/classes/
+/Topics/The utility class Collections/Frequency of characters/out/
+/Topics/The utility class Collections/Frequency of characters/out/production/classes/
+/Topics/The utility class Collections/Multiple swaps/out/
+/Topics/The utility class Collections/Multiple swaps/out/production/classes/
+/Topics/The utility class Collections/Rotating table/out/
+/Topics/The utility class Collections/Rotating table/out/production/classes/
+/Topics/The utility class Collections/The first index of a sublist/out/
+/Topics/The utility class Collections/The first index of a sublist/out/production/classes/
